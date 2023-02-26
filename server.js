@@ -67,21 +67,13 @@ const init = async () => {
         })
     }
 
-    // function exit() {
-    //     console.log("Exiting program...");
-    //     process.exit(1);
-    // }
-
-
-
-
     menu()
 
     const newDepartment = () => {
         inquirer.prompt([
             {
                 type: 'input',
-                name: '',
+                name: 'New Department',
                 message: 'Name of the new department'
 
             }
