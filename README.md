@@ -1,35 +1,17 @@
 # Employee-Tracker-
 
-## User Story
+## Description
 
-```md
-AS A business owner
-I WANT to be able to view and manage the departments, roles, and employees in my company
-SO THAT I can organize and plan my business
-```
+Introducing a sophisticated Node.js-based command-line application, designed to efficiently regulate the intricate employee database of any esteemed organization. Built with the cutting-edge technologies of Inquirer and MySQL, this program offers an advanced array of tools and features that facilitate seamless management of the workforce, ensuring a smooth operational workflow. Whether it be adding new employees, updating their roles, or monitoring their performance, this software is a comprehensive solution for all database needs. Get ready to embark on a journey of unprecedented productivity with this powerful employee database management system.
 
-## User Criteria
+## License
 
-```md
-GIVEN a command-line application that accepts user input
-WHEN a user start the application
-THEN a user is presented with the following options: view all departments, view all roles, view all employees, add a department, add a role, add an employee, and update an employee role
-WHEN a user chooses to view all departments
-THEN a user is presented with a formatted table showing department names and department ids
-WHEN a user chooses to view all roles
-THEN a user is presented with the job title, role id, the department that role belongs to, and the salary for that role
-WHEN a user views all employees
-THEN a user is presented with a formatted table showing employee data, including employee ids, first names, last names, job titles, departments, salaries, and managers that the employees report to
-WHEN a user chooses to add a department
-THEN a user is prompted to enter the name of the department and that department is added to the database
-WHEN a user chooses to add a role
-THEN a user is prompted to enter the name, salary, and department for the role and that role is added to the database
-WHEN a user chooses to add an employee
-THEN a user is prompted to enter the employee’s first name, last name, role, and manager, and that employee is added to the database
-WHEN a user chooses to update an employee role
-THEN a user is prompted to select an employee to update and their new role and this information is updated in the database
-```
+N/A
 
-## Video Walkthrough
+## Usage
 
-https://drive.google.com/file/d/1JaYC7g1cvRBcOA06OZkMe3OmbITp6IUK/view
+Incorporating this state-of-the-art command-line application into your business arsenal can significantly enhance your managerial capabilities. By leveraging its powerful tools and features, you can efficiently oversee and regulate your company's departments, roles, and employees. Whether you want to add new members to your workforce, or update their job titles, this software provides a convenient and effective means of achieving your goals. With just a few simple commands, you can access a wealth of information about your company's employee database and streamline your workflow like never before. Say goodbye to manual data management and hello to a world of enhanced productivity with this revolutionary command-line application.
+
+## Video Walkthrough Link
+
+https://drive.google.com/file/d/1GNr_ZPc0mYuJji7jUdro-plZDU_vFqtO/view
